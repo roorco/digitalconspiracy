@@ -1,0 +1,16 @@
+title: 'DIGITAL CONSPIRACY'
+author:
+  name: 'DIGITAL CONSPIRACY'
+  email: 
+taxonomies:
+  - category
+  - tag
+metadata:
+  description: "DIGITAL CONSPIRACY est un studio de post-production, spécialisé dans les effets visuels, l'animation, la conception et la réalisation."
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+blog:
+  route: /blog

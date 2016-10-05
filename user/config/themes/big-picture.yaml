@@ -1,0 +1,10 @@
+enabled: true
+footer_icons:
+  1:
+    icon: fa-vimeo
+    link: 'https://www.vimeo.com/digitalconspiracy'
+footer_items:
+  -
+    item: 'Template: Big Video, designed by orobor'
+  -
+    item: 'Based on Big Picture designed by: <a href="http://html5up.net">HTML5 UP</a>'
